@@ -1,4 +1,8 @@
-## Hi there 👋
+## `devjacjef`
+
+Primarily Programming in PHP, exploring different pieces of software to enhance my workflow.
+
+Reach out to me on LinkedIn!
 
 <!--
 **devjacjef/devjacjef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
