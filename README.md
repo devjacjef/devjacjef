@@ -15,6 +15,8 @@ $hobbies = [
   gaming => ["Boomer-shooters", "Sandbox", "FPS"]
 ];
 
+$favourite_person = "Bee <3";
+
 ?>
 ```
 *[Reach out to me here](https://www.linkedin.com/in/devjacjef/)*
