@@ -17,6 +17,7 @@ $hobbies = [
 
 $favourite_person = "Bee <3";
 
+// ₍^. .^₎⟆
 $favourite_cat = null;
 
 ?>
