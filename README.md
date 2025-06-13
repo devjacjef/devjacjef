@@ -3,6 +3,11 @@
 
 $name = "Jack Jefferson";
 
+// TODO Learn German.
+$languages = [
+  en => "English",
+];
+
 $job = [
   occupation => "Junior Web Developer",
   company => "MTC",
