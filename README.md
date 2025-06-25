@@ -3,21 +3,10 @@
 
 $name = "Jack Jefferson";
 
-// TODO Learn German.
-$languages = [
-  en => "English",
-];
-
 $job = [
   occupation => "Junior Web Developer",
   company => "MTC",
   branch => "Dundee"
-];
-
-$hobbies = [
-  programming => ["PHP", "Javascript", "C"],
-  reading => ["History", "Technology"],
-  gaming => ["Boomer-shooters", "Sandbox", "FPS"]
 ];
 
 $favourite_person = "Bee <3";
