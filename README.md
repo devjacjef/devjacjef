@@ -1,6 +1,5 @@
 ```
-Junior Backend Developer
-(PHP, Laravel)
+Junior Backend Developer 🐘
 Focused on Web Architecture & Web Services 
 ```
 
