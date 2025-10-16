@@ -1,7 +1,7 @@
 #+title: README
 #+description:  README file for Github
 
-Jack J.
-Junior Web Developer @ mtc.
+* Jack J.
+* Junior Web Developer @ mtc.
 
 [[www.linkedin.com/in/devjacjef][Reach out to me here!]]
