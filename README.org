@@ -1,7 +1,19 @@
-#+title: README
-#+description:  README file for Github
+#+title: Jack Jefferson - GitHub Profile
+#+author: Jack Jefferson
+#+email: ...
 
-* Jack J.
-* Junior Web Developer @ mtc.
+* About Me
 
-[[www.linkedin.com/in/devjacjef][Reach out to me here!]]
+Junior Backend Developer for [[https://www.mtc.co.uk/][mtc.]] and raccoon enjoyer.
+
+* Skills
+
+** Languages
+- PHP
+- JavaScript
+** Frameworks
+- Laravel
+- Vue.js
+** Tools
+- Docker
+- Git
