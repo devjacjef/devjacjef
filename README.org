@@ -1,20 +1,3 @@
-#+title: Jack Jefferson - GitHub Profile
-#+author: Jack Jefferson
-#+email: ...
+*Migrating from Github to https://codeberg.org/devjacjef because of Github's alleged ties to ICE*
 
-* About Me
-
-Junior Backend Developer for [[https://www.mtc.co.uk/][mtc.]] and raccoon enjoyer.
-
-* Skills
-
-** Languages
-- PHP
-- JavaScript
-** Frameworks
-- Laravel
-- Vue.js
-** Tools
-- Docker
-- Git
-- [[https://github.com/doomemacs][DOOM Emacs]]
+Source: https://www.vox.com/recode/2019/10/9/20906605/github-ice-contract-immigration-ice-dan-friedman
