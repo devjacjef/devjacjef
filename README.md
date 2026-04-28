@@ -1,3 +1,5 @@
-Hey I'm Jack Jefferson, a Junior Backend Developer @ [mtc.](https://www.mtc.co.uk/) based in Dundee, Scotland.
-
-*Currently just working as a Junior Backend Developer. Awaiting the next exicting oppurtunity.*
+<p align="center">                                                                                                                                     
+    <img src=".github/assets/banner.png" alt="Banner for devjacjef" width="1280">
+    <br>                                                                                                                                                 
+    <span>Junior Web Developer | mtc. | Laravel, Vue</span>
+  </p> 
