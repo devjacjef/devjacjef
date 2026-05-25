@@ -7,6 +7,6 @@
                   
   <h3 align="center">Junior Web Developer @ mtc.</h3>
 
-  <p align="justify">Curious developer, eager to build and explore with new trendy technologies whilst honing existing skills through project-based learning.</p>
+  <p align="justify"><!--Words--></p>
 
-  <p align="justify">Well versed in Backend Web Development for pharmaceutical clients providing people with an accessible means to get professional help that meets their needs.</p>
+  <p align="justify">Junior Backend Developer primarily working on internal platforms for healthcare clients.</p>
