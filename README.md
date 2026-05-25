@@ -9,4 +9,4 @@
 
   <p align="justify"><!--Words--></p>
 
-  <p align="justify">Junior Backend Developer primarily working on internal platforms for healthcare clients.</p>
+  <p align="center">Junior Backend Developer primarily working on internal platforms for healthcare clients.</p>
