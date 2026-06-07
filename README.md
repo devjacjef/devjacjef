@@ -6,6 +6,7 @@
   </p>                                                                          
                   
   <h3 align="center">Junior Web Developer @ mtc.</h3>
+  <h4 align="center">Laravel, Vue.js</h4>
 
   <p align="justify"><!--Words--></p>
 
