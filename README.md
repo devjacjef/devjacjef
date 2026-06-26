@@ -1,6 +1,6 @@
 <p align="center">
     <img src=".github/assets/curious-raccoon.jpeg" alt="Banner for devjacjef"   
-  width="300">                                                                  
+  width="300" style="border-radius: 15px;">                                                                  
     <br>
     <sub><em>Photo: <a href="https://commons.wikimedia.org/wiki/File:Curious_Raccoon.jpg">Wikimedia Commons</a> · CC BY-SA 4.0</em></sub> 
   </p>                                                                          
