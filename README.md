@@ -7,4 +7,4 @@
 <h3 align="center">Interested in the applications of Small Language Models</h3>
 <h4 align="center">Junior Web Developer @ mtc.</h4>
 
-<p align="justify">Part-time developer @ mtc. doing Backend Web Development and full-time student at Abertay University conducting my honours project and studying modules related to Computing. Seeking to explore the field of the applied applications of Small Language Models and their capabilities for different tasks.</p>
+<p align="justify">Part-time developer @ mtc. doing Backend Web Development and full-time student at Abertay University conducting my honours project and studying modules related to Computing.</p>
