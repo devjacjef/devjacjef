@@ -4,7 +4,7 @@
     <sub><em>Photo: <a href="https://commons.wikimedia.org/wiki/File:Curious_Raccoon.jpg">Wikimedia Commons</a> · CC BY-SA 4.0</em></sub> 
 </p>                                                                          
 
-<h3 align="center">Interested in the applications of Small Language Models</h3>
+<h3 align="center"></h3>
 <h4 align="center">Junior Web Developer @ mtc.</h4>
 
 <p align="justify">Part-time developer @ mtc. doing Backend Web Development and full-time student at Abertay University conducting my honours project and studying modules related to Computing.</p>
